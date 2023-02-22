@@ -7,9 +7,9 @@
 
 # Important notes and thank ❤️
 First of all, thanks for using this Source Code, it was and is a ton of work to create and maintain it!
-That's why I'm asking everyone to [**donate a little bit of money**](https://donate.milrato.dev) or if that's not possible, then join my [Discord Server](https://discord.gg/dcdev)!
 
-  **NOTE:** It is suggested to use the [Sharded (&Clustered) version](https://github.com/Tomato6966/Multipurpose-discord-bot/tree/sharded_with_mongo), if you plan on using it for a VERIFIED BOT (on more then 2000 Servers!)
+
+
  
 
 # Installation Guide 🔥
@@ -148,10 +148,10 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 # Credits
 
 > If you consider using this Bot, make sure to credit me!
-> Example: `Bot Coded by [Tomato#6966](https://discord.gg/dcdev) but modified by [modifier/your Name](https://discord.gg/)`
+
 
 # Contributing
 
 > If you want to help improve the Bot code, fix spelling or design Errors or if possible even code errors, you may create PULL REQUESTS.
-> Please consider, that [**Tomato6966**](https://github.com/Tomato6966) is the main Developer of this Bot, everyone else helped just once or sometimes more often.
+
 > Thanks to any1 who considers helping me!
